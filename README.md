@@ -31,4 +31,5 @@ php backup-gitlab-repositories-to-synology.php
 ## References
 
 [Gitlab API Documentation](https://docs.gitlab.com/ee/api/)
+
 [Original Script](https://gist.github.com/roydejong/165c72a87da332d1c34b2ec486a7e5bd)
